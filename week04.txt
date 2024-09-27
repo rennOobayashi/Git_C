@@ -2,4 +2,5 @@
 	[ 기초 리눅스 명령어 pwd,
 	git 명령어 [fetch, pull],
 	go 환경 셋업 [컴파일러 설치, VSC 설치, 확장 플러그인 설치, go 도구 업데이트],
-	go 명령어 [go mod init, go run] ]
+	go 명령어 [go mod init, go run],
+	conflict 프러블 슈팅 ]
